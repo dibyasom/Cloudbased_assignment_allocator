@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465564178538",
+    "project_id": "assignmentcustomrandomis-47ef2",
+    "storage_bucket": "assignmentcustomrandomis-47ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465564178538:android:7d86ddaa523a857aeb9213",
+        "android_client_info": {
+          "package_name": "dibyasom.ai.assignment_custom_randomiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465564178538-ia6e00mdurbrpnv1a92g9brhov6uv2pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__MwQzQmkYzgXDjauR7XRQP1gLgezUGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465564178538-ia6e00mdurbrpnv1a92g9brhov6uv2pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
